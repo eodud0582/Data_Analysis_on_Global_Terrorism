@@ -1,6 +1,8 @@
 # Data Analysis on Global Terrorism
 
-> 글로벌 테러 데이터 분석
+### 글로벌 테러 데이터 분석
+
+---
 
 ## I. 분석 개요 및 배경
 
