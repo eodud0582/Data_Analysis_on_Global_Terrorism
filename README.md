@@ -196,7 +196,7 @@
 
 ![image](https://user-images.githubusercontent.com/38115693/142806602-464e65a3-cf5a-4eed-8ce8-db01d15bbab2.png)
 
-- 군인(Military), 경찰(Police) 그리고 정부기관(Government) 등이 많은 테러의 타겟(target/victim)이 되어 왔지만, 결국 가장 많은 피해를 입은건 바로 민간인(Private Citizens & Property)이다.
+- 군인(Military), 경찰(Police) 그리고 정부기관(Government) 등이 많은 테러의 타겟(target/victim)이 되어 왔지만, 가장 많은 피해를 입은 것은 바로 민간(Private Citizens & Property)이다.
 
 ## III. 결론
 
